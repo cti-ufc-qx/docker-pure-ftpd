@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Andrew Stilliard <andrew.stilliard@gmail.com>
+MAINTAINER Coordenadoria de Tecnologia da Informação <ccti@quixada.ufc.br>
 
 # properly setup debian sources
 ENV DEBIAN_FRONTEND noninteractive
